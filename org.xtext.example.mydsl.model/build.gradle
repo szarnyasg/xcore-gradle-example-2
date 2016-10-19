@@ -18,7 +18,6 @@ repositories {
 apply plugin: 'java'
 apply plugin: 'org.xtext.xtend'
 apply from: "${rootDir}/gradle/source-layout.gradle"
-apply from: "${rootDir}/gradle/maven-deployment.gradle"
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 
