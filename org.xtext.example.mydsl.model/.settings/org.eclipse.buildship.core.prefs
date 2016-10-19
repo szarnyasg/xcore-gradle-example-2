@@ -1,6 +1,6 @@
 build.commands=org.eclipse.jdt.core.javabuilder,org.eclipse.xtext.ui.shared.xtextBuilder
 connection.arguments=
-connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(3.0))
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(3.1))
 connection.java.home=null
 connection.jvm.arguments=
 connection.project.dir=
